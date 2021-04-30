@@ -1,0 +1,24 @@
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Release\net5.0-windows\Game.exe
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Release\net5.0-windows\Game.deps.json
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Release\net5.0-windows\Game.runtimeconfig.json
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Release\net5.0-windows\Game.runtimeconfig.dev.json
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Release\net5.0-windows\Game.dll
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Release\net5.0-windows\ref\Game.dll
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Release\net5.0-windows\Game.pdb
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.Form1 - Копировать.resources
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.Game_Form.resources
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.Main_Form.resources
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.Properties.Resources.resources
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.Rating_Form.resources
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.Users_Form.resources
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.Victory_Form.resources
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.csproj.GenerateResource.cache
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.AssemblyInfoInputs.cache
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.AssemblyInfo.cs
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.csproj.CoreCompileInputs.cache
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.dll
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\ref\Game.dll
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.pdb
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.genruntimeconfig.cache
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\obj\Release\net5.0-windows\Game.csprojAssemblyReference.cache

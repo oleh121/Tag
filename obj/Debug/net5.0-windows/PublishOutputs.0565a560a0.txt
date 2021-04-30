@@ -1,0 +1,5 @@
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Debug\net5.0-windows\publish\Game.exe
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Debug\net5.0-windows\publish\Game.dll
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Debug\net5.0-windows\publish\Game.deps.json
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Debug\net5.0-windows\publish\Game.runtimeconfig.json
+C:\Users\OlehP\OneDrive\Робочий стіл\Game\bin\Debug\net5.0-windows\publish\Game.pdb
